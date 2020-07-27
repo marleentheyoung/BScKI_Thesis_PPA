@@ -1,10 +1,3 @@
-""" 
-Author of this code: W. Vrielink
-
-Further documentation:
-https://github.com/WouterVrielink/FWAPPA
-"""
-
 import math
 import random
 import numpy as np
